@@ -14,12 +14,12 @@ Purpose of my internship was to fit Theoretical curve into Experimental Curve us
 
 To make this we need to modify the Theoretical Curve on X and Y (Shift,  Offset, Amplitude, Expansion).
 
-![photo_2024-10-12_16-39-10](/home/shawn/Documents/Gauss-Newton Curve Fitting/Images/photo_2024-10-12_16-39-10.jpg)
+![photo_2024-10-12_16-39-10](https://github.com/shawn1308/Gauss-Newton-Curve-Fitting/blob/main/Images/photo_2024-10-12_16-39-10.jpg)
 
 Then apply Gauss-Newton Algorithm with approximately correct parameters
 
-![photo_2024-10-12_16-42-44](/home/shawn/Documents/Gauss-Newton Curve Fitting/Images/photo_2024-10-12_16-42-44.jpg)
+![photo_2024-10-12_16-42-44](https://github.com/shawn1308/Gauss-Newton-Curve-Fitting/blob/main/Images/photo_2024-10-12_16-42-44.jpg)
 
 we could see some results like this : 
 
-![2Curves](/home/shawn/Documents/Gauss-Newton Curve Fitting/Images/2Curves.png)
+![2Curves](https://github.com/shawn1308/Gauss-Newton-Curve-Fitting/blob/main/Images/2Curves.png)
